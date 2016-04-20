@@ -16,7 +16,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : ""
+    "url" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form"
   },
   "oracle" : {
     "versions" : ["11.2.0.1"],
@@ -26,7 +26,7 @@
         "internalName" : "apex.enahnced.lov.item",
         "type" : "dynamic action",
         "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_LOV_ITEM_APEX_DA",
-        "previewImage" : ""
+        "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-lov-item-tabular-form/master/preview.jpg"
       }
     }
   }
