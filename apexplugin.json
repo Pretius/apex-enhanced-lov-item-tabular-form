@@ -23,7 +23,7 @@
     "apex" : {
       "versions" : ["4.1", "4.2.6", "5.0.0"],
       "plugin" : {
-        "internalName" : "apex.enahnced.lov.item",
+        "internalName" : "apex.enahnced.lov.item.tabular.form",
         "type" : "dynamic action",
         "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_LOV_ITEM_APEX_DA",
         "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-lov-item-tabular-form/master/preview.jpg"
