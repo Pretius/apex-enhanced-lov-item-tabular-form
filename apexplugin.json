@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "The plugin is dynamic action plugin dedicated to use with tabular forms. The plugin implements functionalities of \"Pretius APEX Enhanced LOV item\" (PAELI) plugin within tabular form by redirecting JS events from tabular form text fields to created instances of PAELI plugin. Thanks to the plugin, bussiness user can use autocomplete and modal dialog selection in tabular forms.",
   "keywords" : ["tabular", "form", "popup", "lov", "list of values"],
-  "homepage" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_LOV_ITEM_APEX_DA",
+  "homepage" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form",
   "bugs" : {
     "url" : "http://apex.pretius.com",
     "email" : "apex@pretius.com"
