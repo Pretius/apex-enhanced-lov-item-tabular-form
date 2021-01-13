@@ -5,18 +5,21 @@
   "keywords" : ["tabular", "form", "popup", "lov", "list of values"],
   "homepage" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form",
   "bugs" : {
-    "url" : "http://apex.pretius.com",
-    "email" : "apex@pretius.com"
+    "url" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form/issues",
+    "email" : "apex-plugins@pretius.com"
   },
   "license" : "MIT",
+  "commercial" : "No",
+  "commercially_supported":"No",  
   "author" : {
-    "name" : "Bartosz Ostrowski",
-    "email" : "bostrowski@pretius.com",
-    "url" : "http://pretius.com/technologies/oracle-apex/"
+    "name" : "Pretius",
+    "email" : "apex-plugins@pretius.com",
+    "url" : "http://www.pretius.com",
+    "twitter": "PretiusSoftware"
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form"
+    "url" : "https://github.com/Pretius/apex-enhanced-lov-item-tabular-form.git"
   },
   "oracle" : {
     "versions" : ["11.2.0.1"],
